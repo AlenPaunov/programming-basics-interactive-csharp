@@ -3,6 +3,6 @@
 [slide]
 # Slide Title
 
-[youtube-video id='uTSIZm9md6M' /]
+[youtube-video id="uTSIZm9md6M" /]
 
 [/slide]
